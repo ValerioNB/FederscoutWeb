@@ -1,10 +1,9 @@
 # **🚀 Brain Meeting Report: Progetto Federscout 2.0**
 
 Documento di Analisi e Ristrutturazione Architetturale  
-Data: 01/01/2026  
 Oggetto: Razionalizzazione contenuti "IdeeBe" e Setup Backend Spring Boot
 
-## **1\. Analisi "IdeeBe" & Riorganizzazione UX/UI**
+## **1\. Riorganizzazione UX/UI**
 
 Il sito originale presenta una dispersione dei contenuti con troppe voci di menu separate per anno o micro-argomento. L'obiettivo è accorpare e semplificare, trasformando pagine statiche in flussi dinamici gestiti dal database.
 
